@@ -1,5 +1,5 @@
 # DA-Pro04-Accenture01
-Accenture data analytics and visualization pro training
+Accenture data analytics and visualization pro training (a training project provided by Accenture)
 
 1.Requirements gathering
 Understand the client and business problem at hand.
